@@ -91,7 +91,7 @@ namespace Vasilev5
 
         private void button3_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < Ex1.Value; i++)
+            for (int i = 0; i < Ex3.Value; i++)
             {
                 Student student = new Student();
                 student.name = names[rnd.Next(0, names.Length)];

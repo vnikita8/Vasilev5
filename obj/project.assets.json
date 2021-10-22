@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EHOT\\source\\repos\\Vasilev5\\Vasilev5.csproj",
+      "projectUniqueName": "C:\\Users\\EHOT\\Documents\\GitHub\\Vasilev5\\Vasilev5.csproj",
       "projectName": "Vasilev5",
-      "projectPath": "C:\\Users\\EHOT\\source\\repos\\Vasilev5\\Vasilev5.csproj",
+      "projectPath": "C:\\Users\\EHOT\\Documents\\GitHub\\Vasilev5\\Vasilev5.csproj",
       "packagesPath": "C:\\Users\\EHOT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EHOT\\source\\repos\\Vasilev5\\obj\\",
+      "outputPath": "C:\\Users\\EHOT\\Documents\\GitHub\\Vasilev5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EHOT\\AppData\\Roaming\\NuGet\\NuGet.Config",
